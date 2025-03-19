@@ -1,1 +1,1 @@
-print("Welcome to BNMIT!!")
+print("Hello world!!Welcome to bnmit")
